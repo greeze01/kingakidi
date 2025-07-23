@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/thekingakidi" target="blank"><img src="https://img.shields.io/twitter/follow/thekingakidi?logo=twitter&style=for-the-badge" alt="thekingakidi" /></a> </p>
 
-- 🌱 I’m currently learning **Web3 Technology**
 
 - 👯 I’m looking to collaborate on **Fullstack's Projects**
 
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about **React, Vue, Node, Laravel & React Native**
 
-- 📫 How to reach me **sydeestack@gmail.com**
+- 📫 How to reach me **me.akaaba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
